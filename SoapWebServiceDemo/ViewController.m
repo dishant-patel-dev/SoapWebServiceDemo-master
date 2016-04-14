@@ -32,7 +32,7 @@
 }
 
 //Button Click Action
-//Check pull for jenkins
+
 - (IBAction)convertClicked:(id)sender {
     
     [celsiusText resignFirstResponder];
